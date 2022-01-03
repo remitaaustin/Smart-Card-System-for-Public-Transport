@@ -4,7 +4,7 @@ Data Structures and Algorithms (CSE2003) J Component
 ## Steps to be followed:
 ● Save the file in a separate folder. It will generate two binary files for storing user and bus details.\
 ● To add user details, enter option 1. On doing so, it would ask to enter the details of the cardholder.\
-	Enter id: 1\
+	\tEnter id: 1\
 	Enter name: Simon\
 	Enter phone number: 9876543210\
 	Enter email: simon@gmail.com\
